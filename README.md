@@ -114,7 +114,7 @@ G F <BR>
 <hr>
 ['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
-<hr>
+<hr> 
 
 <hr>
 <h3>Sample Input</h3>
