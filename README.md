@@ -57,6 +57,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 <hr>
 <h2>Algorithm:</h2>
+```
 from collections import deque
 from collections import defaultdict
 def bfs(graph,start,visited,path):
@@ -93,7 +94,7 @@ print(traversedpath)
 <li>Find its Successors Or neighbors and Check whether the node is visited or not.</li>
 <li>If Not Visited, add it to the Queue. Else Continue.</li>
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
-
+```
 </ol>
 
 <hr>
